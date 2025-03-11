@@ -1,0 +1,12 @@
+﻿  Pathfinding_visualization.cpp
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,69): warning C4244:         with
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,69): warning C4244:         [
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,69): warning C4244:             T=float
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,69): warning C4244:         ]
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,50): warning C4244:         with
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,50): warning C4244:         [
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,50): warning C4244:             T=float
+C:\Users\misha\source\repos\Pathfinding-visualization\Pathfinding_visualization.cpp(97,50): warning C4244:         ]
+  Pathfinding-visualization.vcxproj -> C:\Users\misha\source\repos\Pathfinding-visualization\x64\Debug\Pathfinding-visualization.exe
